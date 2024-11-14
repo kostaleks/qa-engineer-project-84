@@ -256,7 +256,7 @@
     ОС Windows 10 22H2
   steps-to-reproduce: |
     1. Кнопкой Next пролистать каталог до 6 страницы 
-    2. Прокрутить страницу до автомобилей
+    2. В поле Price from ввести цену 20000
   expected-result: |
     Надпись на кнопке Add to cart в одну строку
   actual-result: |
