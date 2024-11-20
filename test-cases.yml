@@ -4,6 +4,7 @@
   requirement: |
     Пользователь должен иметь возможность искать товары по ключевому слову или категории
   prerequisites: |
+    empty
   test-data: |
     no-data
   steps:
@@ -16,6 +17,7 @@
   requirement: |
     Пользователь должен иметь возможность искать товары по ключевому слову или категории
   prerequisites: |
+    empty
   test-data: |
     no-data
   steps:
@@ -29,6 +31,7 @@
   requirement: |
     Пользователь должен иметь возможность фильтровать товары
   prerequisites: |
+    empty
   test-data: |
     price from 2500
     price to 5000
@@ -43,6 +46,7 @@
   requirement: |
     Пользователь должен иметь возможность фильтровать товары
   prerequisites: |
+    empty
   test-data: |
     no-data
   steps:
@@ -55,6 +59,7 @@
   requirement: |
     Пользователь должен иметь возможность фильтровать товары
   prerequisites: |
+    empty
   test-data: |
     no-data
   steps:
@@ -67,6 +72,7 @@
   requirement: |
     Пользователь должен иметь возможность фильтровать товары
   prerequisites: |
+    empty
   test-data: |
     no-data
   steps:
@@ -81,6 +87,7 @@
   requirement: |
     Пользователь должен иметь возможность фильтровать товары
   prerequisites: |
+    empty
   test-data: |
     no-data
   steps:
@@ -95,6 +102,7 @@
   requirement: |
     Пользователь должен иметь возможность фильтровать товары
   prerequisites: |
+    empty
   test-data: |
     no-data
   steps:
@@ -109,6 +117,7 @@
   requirement: |
     Пользователь должен иметь возможность фильтровать товары
   prerequisites: |
+    empty
   test-data: |
     no-data
   steps:
@@ -121,6 +130,7 @@
   requirement: |
     Пользователь должен иметь возможность просматривать товары и просматривать подробную информацию о них
   prerequisites: |
+    empty
   test-data: |
     no-data
   steps:
@@ -133,6 +143,7 @@
   requirement: |
     Пользователь должен иметь возможность просматривать товары и просматривать подробную информацию о них
   prerequisites: |
+    empty
   test-data: |
     no-data
   steps:
@@ -146,6 +157,7 @@
   requirement: |
     Пользователь должен иметь возможность просматривать товары и просматривать подробную информацию о них
   prerequisites: |
+    empty
   test-data: |
     no-data
   steps:
@@ -162,6 +174,7 @@
   requirement: |
     Пользователь должен иметь возможность просматривать товары и просматривать подробную информацию о них
   prerequisites: |
+    empty
   test-data: |
     no-data
   steps:
@@ -174,6 +187,7 @@
   requirement: |
     Пользователь должен иметь возможность добавлять товары в корзину и просматривать содержимое корзины 
   prerequisites: |
+    empty
   test-data: |
     no-data
   steps:
@@ -187,6 +201,7 @@
   requirement: |
     Пользователь должен иметь возможность добавлять товары в корзину и просматривать содержимое корзины 
   prerequisites: |
+    empty
   test-data: |
     no-data
   steps:
@@ -201,6 +216,7 @@
   requirement: |
     Пользователь должен иметь возможность добавлять товары в корзину и просматривать содержимое корзины 
   prerequisites: |
+    empty
   test-data: |
     no-data
   steps:
@@ -214,6 +230,7 @@
   requirement: |
     Пользователь должен иметь возможность добавлять товары в корзину и просматривать содержимое корзины 
   prerequisites: |
+    empty
   test-data: |
     no-data
   steps:
@@ -229,6 +246,7 @@
   requirement: |
     Пользователь должен иметь возможность добавлять товары в корзину и просматривать содержимое корзины 
   prerequisites: |
+    empty
   test-data: |
     no-data
   steps:
@@ -243,6 +261,7 @@
   requirement: |
     Пользователь должен иметь возможность на странице корзины удалить товар из корзины
   prerequisites: |
+    empty
   test-data: |
     no-data
   steps:
@@ -257,6 +276,7 @@
   requirement: |
     Пользователь должен иметь возможность переходить со страницы корзины в каталог
   prerequisites: |
+    empty
   test-data: |
     no-data
   steps:
@@ -272,6 +292,7 @@
   requirement: |
     Пользователь должен иметь возможность оформить заказ с переходом на страницу оплаты
   prerequisites: |
+    empty
   test-data: |
     no-data
   steps:
@@ -287,6 +308,7 @@
   requirement: |
     Корзина хранится в сессии браузера
   prerequisites: |
+    empty
   test-data: |
     no-data
   steps:
